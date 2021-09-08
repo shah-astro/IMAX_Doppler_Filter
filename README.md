@@ -8,6 +8,9 @@ Magnetohydrodynamic simulations reveals that there should be atleast two contrib
 ![Doppler Filter](https://user-images.githubusercontent.com/66755474/132464625-1a0741e0-c813-4367-8aa5-9144e73de2e8.png)
 
 References:
+
 Pillet, V. Martínez, et al. "The Imaging Magnetograph eXperiment (IMaX) for the Sunrise balloon-borne solar observatory." Solar Physics 268.1 (2011): 57-102.
+
 Solanki, S. K., et al. "SUNRISE: instrument, mission, data, and first results." The Astrophysical Journal Letters 723.2 (2010): L127.
+
 Suárez, D. Orozco, et al. "Retrieval of solar magnetic fields from high-spatial resolution filtergraph data: the Imaging Magnetograph eXperiment (IMaX)." Astronomy & Astrophysics 522 (2010): A101.
