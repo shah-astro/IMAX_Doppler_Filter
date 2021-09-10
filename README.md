@@ -18,4 +18,4 @@ Solanki, S. K., et al. "SUNRISE: instrument, mission, data, and first results." 
 
 Suárez, D. Orozco, et al. "Retrieval of solar magnetic fields from high-spatial resolution filtergraph data: the Imaging Magnetograph eXperiment (IMaX)." Astronomy & Astrophysics 522 (2010): A101.
 
-Bahauddin, Shah Mohammad, and Mark Peter Rast. "Identifying acoustic wave sources on the Sun I. Two-dimensional waves in a simulated photosphere." arXiv preprint arXiv:2101.10465 (2021).
+Bahauddin, Shah Mohammad, and Mark Peter Rast. "Identifying acoustic wave sources on the Sun I. Two-dimensional waves in a simulated photosphere." The Astrophysical Journal 915 (2021): 36.
